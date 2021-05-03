@@ -70,7 +70,7 @@ img{
   background-color: #0090aa;
 }
 #home{
-  background-image: url(main-bg.jpg);
+  background-image: main-bg.jpg;
   background-blend-mode: luminosity;
   min-height: 100vh;
 }
